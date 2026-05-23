@@ -51,6 +51,7 @@ Interactive Filters
 4. Analyzed sales, profit, and discount impact on business performance
 5. Improved dashboard design and storytelling using data
 
+
 **Project Outcome
 **
 This project helped me gain hands-on experience in Power BI, Data Visualization, Dashboard Development, and Business Insights Analysis during my Data Analytics Internship.
